@@ -14,13 +14,13 @@
   <p align="left">
     <a href="mailto:kamelmikhaelkamel@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
-    </a> &nbsp;
+    </a>&nbsp;
     <a href="mailto:eng.kamel.danial@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
-    </a> &nbsp;
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/kamel-mikhael-kamel">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
-    </a> &nbsp;
+    </a>&nbsp;
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
