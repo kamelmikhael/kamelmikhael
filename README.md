@@ -41,7 +41,7 @@
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
     </a>
     <a href="https://kamelmikhael.github.io/Portfolio/">
-      <img src="https://cdn-icons-png.flaticon.com/512/9418/9418231.png" height="50"/>
+      <img src="https://avatars.githubusercontent.com/u/32511995?v=4" height="50"/>
     </a>
   </p>
 
