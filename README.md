@@ -29,7 +29,7 @@
 
 ###
 
-### 📤 Connect & Competitive Programming
+### 📤 Follow Me 
   <p align="left">
     <a href="mailto:kamelmikhaelkamel@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
@@ -40,6 +40,9 @@
     <a href="https://www.linkedin.com/in/kamel-mikhael-kamel">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
     </a>&nbsp;
+    <a href="https://kamelmikhael.github.io/Portfolio/">
+      <img src="https://avatars.githubusercontent.com/u/101954795?v=4" height="50"/>
+    </a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
